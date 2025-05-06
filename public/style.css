@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  #messages {
+    border: 1px solid #ccc;
+    height: 200px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  input, button {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
